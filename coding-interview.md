@@ -39,7 +39,7 @@ The driver will have access to GitHub Copilot Business. With the following model
 
 - During the coding session there will be one driver.
 - During the coding session there will be an "observer" who will be taking notes and barely interacting with you.
-- During the coding session there might be a "traffic controller" this role, will be there just to help you ocassionally or to redirect you to a forward step in the interview in case that the team feels you have demonstrated sufficient knowledge on one topic.
+- During the coding session there might be a "traffic controller", this role will be there just to help you ocassionally or to redirect you to a forward step in the interview in case that the team feels you have demonstrated sufficient knowledge on one topic.
 - You can propose any tools, patterns, or architectures you believe fit best.
 
 Thank you — we look forward to the discussion!
