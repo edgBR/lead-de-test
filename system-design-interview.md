@@ -149,5 +149,6 @@ You will design an end-to-end architecture that satisfies the requirements above
 - You may use diagrams (whiteboard, Miro, etc.).
 - You may ask clarifying questions at any time.
 - If you use AI assistance, please submit your conversation history.
+- You need to create a private fork repository hosting your solution and share it with us. Remember that if you fork this publicly this will be visible to other applicants.
 
 Thank you — we look forward to the discussion!
