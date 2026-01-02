@@ -127,6 +127,8 @@ You will design an end-to-end architecture that satisfies the requirements above
 - Governance, security, and operational concerns
 - Trade-offs (correctness vs latency vs cost vs complexity)
 
+The deliverable should be a document explaining the architecture with corresponding diagrams (you can use any tool for that: mermaid, drawio, vision etc...).
+
 ---
 
 ## Notes
