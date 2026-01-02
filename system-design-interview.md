@@ -63,7 +63,7 @@ The data volumes of the streaming sources are low, that means that we process at
 
 ### 2) Batch Sources
 
-Imagine an scenario where the batch sytems needs to ingest data periodically from:
+Imagine an scenario where the batch sytems needs to ingest data periodically (daily basis) from:
 
 - Public APIs from financial instutes (i.e European Central Bank, OECD, World Bank etc...)
 - OLTP systems on-premises and in the cloud of all kind ((PostreSQL, Azure SQL, SQL Server, Oracle, MySQL etc...)
@@ -98,6 +98,7 @@ Data must be stored using a columnar data format, the storage format should supp
 ---
 
 ### 2) Layered Architecture
+
 The platform should follow a layered approach (example: Raw/Bronze/Silver/Gold):
 
 - **Raw:** raw ingestion, minimal transformation.
@@ -123,6 +124,7 @@ Your approach should address:
 
 ### 4) Gold Datamarts
 Gold datasets must support:
+
 - **Machine learning model training** and feature creation
 - **Power BI analytics** (performance, refresh patterns, data model structure)
 
@@ -131,6 +133,7 @@ Gold datasets must support:
 ## What you need to do:
 
 You will design an end-to-end architecture that satisfies the requirements above, and discuss:
+
 - Streaming ingestion and processing design
 - Batch extraction from on-prem databases
 - Storage format + layout across layers
