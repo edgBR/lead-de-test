@@ -1,24 +1,8 @@
-
-
-# Lead Data Engineer – System Design Interview
-
 <p align="center">
 	<img src="b2logo-crop.png" alt="Company logo" width="1024" />
 </p>
 
-<!--
-Replace the `src` above with either:
-- a workspace-relative path to a local image (example: `/assets/logo.png`), or
-- an absolute URL (example: https://example.com/logo.png).
-
-If your Markdown renderer doesn't support raw HTML, use this alternate centered option:
-
-<div align="center"> ![logo](https://example.com/logo.png){width="240px"} </div>
-
-Or a simple left-aligned image with standard Markdown:
-
-![logo](https://example.com/logo.png)
--->
+# Lead Data Engineer – System Design Interview
 
 This document outlines the **System Design** portion of the Lead Data Engineer interview exercise.
 
